@@ -14,6 +14,7 @@
 		F71AFA402041C89D00A75CBB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F71AFA3E2041C89D00A75CBB /* LaunchScreen.storyboard */; };
 		F71AFA4B2041C89D00A75CBB /* instaaleneziTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F71AFA4A2041C89D00A75CBB /* instaaleneziTests.swift */; };
 		F71AFA562041C89D00A75CBB /* instaaleneziUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F71AFA552041C89D00A75CBB /* instaaleneziUITests.swift */; };
+		F74B62BF20429C2700260A0A /* loginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F74B62BE20429C2700260A0A /* loginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		F71AFA512041C89D00A75CBB /* instaaleneziUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = instaaleneziUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F71AFA552041C89D00A75CBB /* instaaleneziUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = instaaleneziUITests.swift; sourceTree = "<group>"; };
 		F71AFA572041C89D00A75CBB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F74B62BE20429C2700260A0A /* loginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				F71AFA3C2041C89D00A75CBB /* Assets.xcassets */,
 				F71AFA3E2041C89D00A75CBB /* LaunchScreen.storyboard */,
 				F71AFA412041C89D00A75CBB /* Info.plist */,
+				F74B62BE20429C2700260A0A /* loginViewController.swift */,
 			);
 			path = instaalenezi;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				F71AFA382041C89A00A75CBB /* ViewController.swift in Sources */,
 				F71AFA362041C89A00A75CBB /* AppDelegate.swift in Sources */,
+				F74B62BF20429C2700260A0A /* loginViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
